@@ -1,0 +1,15 @@
+[20:12:09] STEP1 申请设备码
+[20:12:09] USERCODE 4B03-6B33
+[20:12:09] VERIFY https://github.com/login/device
+[20:13:10] AUTH 授权成功（token 仅在内存）
+[20:13:11] USER Aria-sudo372
+[20:13:16] REPO 已创建
+[20:13:19] PUSH 完成
+[20:13:20] PAGES 已开启
+[20:13:20] URL https://Aria-sudo372.github.io/portfolio/
+[20:13:21] PAGES status=
+[20:13:31] PAGES status=building
+[20:13:42] PAGES status=building
+[20:13:52] PAGES status=building
+[20:14:03] PAGES status=built
+[20:14:03] BUILT True
